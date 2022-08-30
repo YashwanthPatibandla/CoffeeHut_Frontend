@@ -1,1 +1,11 @@
-
+Black Coffee
+Decaf
+Espresso
+Latte
+Cappuccino
+Macchiato
+Americano
+Café au Lait
+Cortado
+Flat White
+Mocha Latte
